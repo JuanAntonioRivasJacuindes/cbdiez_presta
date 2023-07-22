@@ -7889,7 +7889,7 @@ body#checkout
 #header .header-nav .blockcart a,
 .account-list a,
 .products-selection .title {
-  color: #fede;
+  color: #7a7a7a;
 }
 .cart-grid {
   margin-bottom: 1rem;
@@ -8646,7 +8646,7 @@ body#checkout
   position: relative;
   z-index: 999;
   color: #7a7a7a;
-  background: #fff;
+  background: #00c062;
   -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.11);
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.11);
 }
@@ -8774,7 +8774,7 @@ body#checkout
 }
 #wrapper {
   padding-top: 1.563rem;
-  background: #f6f6f6;
+  background: #0074d9;
 }
 #wrapper .banner {
   display: block;
